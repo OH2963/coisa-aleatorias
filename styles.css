@@ -1,0 +1,11 @@
+body {
+color: firebrick;
+background: black 
+}
+
+header {
+    border-bottom: solid 2px rgb(19, 8, 8);
+padding: 20px;
+font-size: 32px;
+color: rgb(151, 1, 1);
+}
